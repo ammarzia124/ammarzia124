@@ -55,13 +55,15 @@ I am a Full-Stack Developer and Network Engineer specializing in the MERN stack 
 
 ---
 
+---
+
 ## 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats-six-rework.vercel.app/api?username=ammarzia124&show_icons=true&theme=tokyonight" alt="Ammar's GitHub Stats" height="150" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ammarzia124&theme=tokyonight" alt="GitHub Streak" height="150" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ammarzia124&theme=tokyonight" alt="Ammar's GitHub Stats" height="150" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ammarzia124&theme=tokyonight" alt="Top Langs" height="150" />
 </p>
 
 <p align="left">
-  <img src="https://github-readme-stats-six-rework.vercel.app/api/top-langs/?username=ammarzia124&layout=compact&theme=tokyonight" alt="Top Langs" height="150" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ammarzia124&theme=tokyonight" alt="Stats Summary" height="150" />
 </p>
